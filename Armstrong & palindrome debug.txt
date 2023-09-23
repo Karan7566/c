@@ -1,0 +1,53 @@
+Armstrong debug
+num=153=1*1*1+5*5*5*+3*3*3
+153!=0 t
+rem=3
+arm=27
+num=15
+
+num=15
+15!=0 t
+rem=5
+arm=27+125=152
+num=1
+
+num=1
+1!=0
+rem=1
+arm=152+1=153
+num=0
+
+num=0 
+0!=0 t
+
+
+
+Palindrome debug
+n=589
+589%10=9
+rev=9
+n=58
+rem=8
+rev=98
+5
+5
+985
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
